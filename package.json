@@ -1,0 +1,19 @@
+{
+  "name": "foodmap",
+  "version": "0.0.1",
+  "description": "foodmap mejorado con test y demas",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulifer/food-map2.0.git"
+  },
+  "author": "paulina huañaco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulifer/food-map2.0/issues"
+  },
+  "homepage": "https://github.com/Paulifer/food-map2.0#readme"
+}
